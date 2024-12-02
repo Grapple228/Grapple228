@@ -35,4 +35,4 @@ VBA
 
 Rust   
 Недавно начал изучать этот язык, сейчас разрабатываю интерпретатор кода по книге Crafting Interpreters - Robert Nystrom
-https://github.com/Grapple228/codecrafters-interpreter-rust
+https://github.com/Grapple228/codecrafters-interpreter-rust-v2

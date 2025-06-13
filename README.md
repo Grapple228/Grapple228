@@ -81,7 +81,7 @@ This library simplifies working with strings, environment variables, parsing UUI
 
 ### [grapple_db](https://github.com/Grapple228/rust_grapple_db) - Library for Database Communication (Rust)
 
-This is my latest project, developed for my current work. I found that many database clients are overly complicated, so I created my own. Currently, it works only with Scylla, but I plan to implement support for MongoDB, PostgreSQL, and Redis/Valkey.
+This is my latest project, developed for my current work. I found that many database clients are overly complicated, so I created my own. Currently, it works only with Scylla and Redis, but I plan to implement support for MongoDB and PostgreSQL.
 
 ### Research Repositories
 
